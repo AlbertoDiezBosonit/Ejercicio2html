@@ -1,0 +1,42 @@
+body{
+    background-color: #7fffD4;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+
+form{
+    display: flex;
+    flex-flow: column;    
+    height: 60%;
+    width: 20em;
+    margin:auto;
+}
+
+div{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    padding: 0.3em;
+}
+
+h1{
+    text-align: center;
+}
+
+label{
+    width: 44%;
+    text-align: left;
+}
+
+input{
+    width: 44%;
+    text-align: right;
+}
+
+.boton{
+    width: 22%;
+    text-align: center;
+    padding: 0.2em;
+    margin:0.9em;
+}

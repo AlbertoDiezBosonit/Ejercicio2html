@@ -1,0 +1,75 @@
+{
+  "persons": [
+    {
+      "user": "chuchi",
+      "surname": "puente",
+      "password": "123341341341341",
+      "company_email": "jesus.javier@bosonit.com",
+      "personal_email": "otro@gmail.com",
+      "city": "logrono",
+      "imagen_url": "",
+      "created_date": "1966-12-05",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "user": "chuchi",
+      "password": "123341341341341",
+      "name": "Jesús",
+      "surname": "puente",
+      "company_email": "jesus.javier@bosonit.com",
+      "personal_email": "otro@gmail.com",
+      "city": "logrono",
+      "active": true,
+      "created_date": "1966-12-23",
+      "imagen_url": ""
+    },
+    {
+      "usuario": "chuchi",
+      "apellido": "puente",
+      "contrasena": "123341341341341",
+      "emaildelacompania": "jesus.javier@bosonit.com",
+      "emailpersonal": "otro@gmail.com",
+      "ciudad": "logrono",
+      "urlimagen": "",
+      "fechacreacion": "1966-12-23",
+      "fechafinalizacion": "",
+      "id": "12"
+    },
+    {
+      "id": 14,
+      "user": "chuchi",
+      "password": "123341341341341",
+      "name": "Jesús",
+      "surname": "puente",
+      "company_email": "jesus.javier@bosonit.com",
+      "personal_email": "otro@gmail.com",
+      "city": "logrono",
+      "active": true,
+      "created_date": "1966-12-23",
+      "imagen_url": ""
+    },
+    {
+      "user": "chuchi",
+      "surname": "aapuente",
+      "password": "123341341341341",
+      "company_email": "jesus.javier@bosonit.com",
+      "personal_email": "otro@gmail.com",
+      "city": "logrono",
+      "imagen_url": "",
+      "created_date": "1966-12-05",
+      "id": 15
+    },
+    {
+      "user": "chuchi",
+      "surname": "aapuente",
+      "password": "123341341341341",
+      "company_email": "jesus.javier@bosonit.com",
+      "personal_email": "otro@gmail.com",
+      "city": "logrono",
+      "imagen_url": "",
+      "created_date": "1966-12-05",
+      "id": 16
+    }
+  ]
+}
