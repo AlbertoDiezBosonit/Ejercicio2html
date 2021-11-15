@@ -46,8 +46,6 @@ function limpiarFormulario(){
 function enviarFormulario(event){
     // enviamos el formulario al servidor mediante fetch
     event.preventDefault(); // evitamos que se haga el submit
-    const dataFormulario = new FormData(document.getElementById('formulario'));
-    const value2 = Object.fromEntries(dataFormulario.entries());
     const data={
         user:document.getElementById('usuario').value,
         surname:document.getElementById('apellido').value,
@@ -67,7 +65,6 @@ function enviarFormulario(event){
         method:'PUT',
         headers:{ 'Content-Type':'application/json'},
         body:JSON.stringify(data)
-        
     })/*.then((response)=>response.json() // la respuesta de momento no nos interesa
     .then(data2=>{
         if(data2.length>0){}
